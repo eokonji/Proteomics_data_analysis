@@ -234,8 +234,6 @@ length(setdiff(fData(psm_filt_sn_int_missing)$Master.Protein.Accessions,
                fData(protein_norm)$Master.Protein.Accessions))
 ```
 
-To add 
-- TMM normalisation
 
 # References
 
